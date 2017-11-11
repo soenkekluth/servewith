@@ -1,0 +1,20 @@
+{
+  "name": "servewith",
+  "version": "0.0.1",
+  "description": "start one of the most popular servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soenkekluth/servewith.git"
+  },
+  "keywords": [],
+  "author": "Sönke Kluth <soenke.kluth@gmail.com> (http://soenkekluth.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soenkekluth/servewith/issues"
+  },
+  "homepage": "https://github.com/soenkekluth/servewith#readme"
+}
